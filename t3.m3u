@@ -1,38 +1,38 @@
 #EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml"
-#EXTINF:-1 tvg-id="" tvg-logo="",TV+ İnfo
-0
-#EXTINF:-1 tvg-id="" tvg-logo="",EPIC DRAMA
-0
-#EXTINF:-1 tvg-id="" tvg-logo="",FX
-0
-#EXTINF:-1 tvg-id="" tvg-logo="",BluTV Play 1
-0
-#EXTINF:-1 tvg-id="" tvg-logo="",BluTV Play 2
-0
-#EXTINF:-1 tvg-id="" tvg-logo="",tabii TV
-0
-#EXTINF:-1 tvg-id="" tvg-logo="",SİNEMA YERLİ
-0
-#EXTINF:-1 tvg-id="" tvg-logo="",SİNEMA TV
-0
-#EXTINF:-1 tvg-id="" tvg-logo="",SİNEMA TV AKSİYON
-0
-#EXTINF:-1 tvg-id="" tvg-logo="",SİNEMA KOMEDİ
-0
-#EXTINF:-1 tvg-id="" tvg-logo="",SİNEMA AİLE
-0
-#EXTINF:-1 tvg-id="" tvg-logo="",SİNEMA TV 1001
-0
-#EXTINF:-1 tvg-id="" tvg-logo="",SİNEMA YERLİ 2
-0
-#EXTINF:-1 tvg-id="" tvg-logo="",SİNEMA TV 2
-0
-#EXTINF:-1 tvg-id="" tvg-logo="",SİNEMA AKSİYON 2
-0
-#EXTINF:-1 tvg-id="" tvg-logo="",SİNEMA AİLE 2
-0
-#EXTINF:-1 tvg-id="" tvg-logo="",SİNEMA 1002
-0
+#EXTINF:-1 tvg-id="tiviturk.tr" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png",TiViTURK ᴴᴰ
+https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:-1 tvg-id="TeleOn.tr" tvg-logo="https://teleon.at.ua/digitalontime02.png",TELE ON ᴴᴰ
+https://live-hz-6.livepush.io/live/emtHo7vrk_iB0e3p/chunks.m3u8
+#EXTINF:-1 tvg-id="fx" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png",FX ʜᴅ
+https://tv.prectv5.sbs/live/fx.m3u8
+#EXTINF:-1 tvg-id="epic" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png",Epic Drama ʜᴅ
+https://tv.prectv5.sbs/live/epicdrama.m3u8
+#EXTINF:-1 tvg-id="beinbox1" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png", beIN BOX 1 HD
+https://one.fbf1eb5f21ff67.shop/live/boxoffice1/playlist.m3u8?live=true
+#EXTINF:-1 tvg-id="beinbox1" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png", beIN BOX 2 HD
+https://one.fbf1eb5f21ff67.shop/live/boxoffice2/playlist.m3u8?live=true
+#EXTINF:-1 tvg-id="beinbox1" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png", beIN BOX 3 HD
+https://one.fbf1eb5f21ff67.shop/live/boxoffice3/playlist.m3u8?live=true
+#EXTINF:-1 tvg-id="beinbox1" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png", beIN SERIES 1 HD
+https://one.fbf1eb5f21ff67.shop/live/beinseries1/playlist.m3u8?live=true
+#EXTINF:-1 tvg-id="beinbox1" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png", beIN SERIES 2 HD
+https://one.fbf1eb5f21ff67.shop/live/beinseries2/playlist.m3u8?live=true
+#EXTINF:-1 tvg-id="beinbox1" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png", beIN SERIES 3  HD
+https://one.fbf1eb5f21ff67.shop/live/beinseries3/playlist.m3u8?live=true
+#EXTINF:-1 tvg-id="beinbox1" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png", beIN TURK  HD
+https://one.fbf1eb5f21ff67.shop/live/beinmoviesturk/playlist.m3u8?live=true
+#EXTINF:-1 tvg-id="beinbox1" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png", BEIN STARS HD
+https://one.fbf1eb5f21ff67.shop/live/beinmoviesstars/playlist.m3u8?live=true
+#EXTINF:-1 tvg-id="beinbox1" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png", BEIN PREMIER HD
+https://one.fbf1eb5f21ff67.shop/live/beinmoviespremiere/playlist.m3u8?live=true
+#EXTINF:-1 tvg-id="beinbox1" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png", BEIN PREMIER 2  HD
+https://one.fbf1eb5f21ff67.shop/live/beinmoviespremiere2/playlist.m3u8?live=true
+#EXTINF:-1 tvg-id="beinbox1" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png", BEIN FAMILY HD
+https://one.fbf1eb5f21ff67.shop/live/beinmoviesfamily/playlist.m3u8?live=true
+#EXTINF:-1 tvg-id="beinbox1" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png", BEIN ACTION HD
+https://one.fbf1eb5f21ff67.shop/live/beinmoviesaction/playlist.m3u8?live=true
+#EXTINF:-1 tvg-id="beinbox1" tvg-logo="https://i.ibb.co/NLqVCks/blutv.png", BEIN ACTION 2 HD
+https://one.fbf1eb5f21ff67.shop/live/beinmoviesaction2/playlist.m3u8?live=true
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png",TRT1
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png",KANAL D
