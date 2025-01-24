@@ -3,20 +3,14 @@
 https://tv.prectv5.sbs/live/fx.m3u8
 #EXTINF:-1 tvg-name="BEIN BOX OFFICE 1 ʜᴅ"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",BEIN BOX OFFICE 1 ʜᴅ
 https://tv.prectv5.sbs/live/box1.m3u8
-#EXTINF:-1 tvg-name="beIN Box Office 2 HD TR"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",beIN Box Office 2 HD TR
-https://tv.prectv5.sbs/live/box2.m3u8
 #EXTINF:-1 tvg-name="Beinbox Office 3"tvg-id=""tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-box-office-3-logo.png"group-title="Sinema ",Beinbox Office 3
 https://tv.prectv5.sbs/live/box3.m3u8
 #EXTINF:-1 tvg-name="Bein Movies Stars"tvg-id=""tvg-logo=""group-title="Sinema",Bein Movies Stars
 https://tv.prectv5.sbs/live/bsstars.m3u8
-#EXTINF:-1 tvg-name="Bein Movies premiere"tvg-id=""tvg-logo="https://media0065.elcinema.com/tvguide/1322_1.png"group-title="Sinema",Bein Movies premiere
+#EXTINF:-1 tvg-name="Bein Movies Premiere"tvg-id=""tvg-logo="https://media0065.elcinema.com/tvguide/1322_1.png"group-title="Sinema",Bein Movies premiere
 https://tv.prectv5.sbs/live/bspremier1.m3u8
 #EXTINF:-1 tvg-name="Bein Movies Turk"tvg-id=""tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/bein-movies-turk-276547.png"group-title="Sinema",Bein Movies Turk
 https://tv.prectv5.sbs/live/bsturk.m3u8
-#EXTINF:-1 tvg-name="BEIN MOVIES FAMILY ʜᴅ"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",BEIN MOVIES FAMILY ʜᴅ
-https://tv.prectv5.sbs/live/bsfamily.m3u8
-#EXTINF:-1 tvg-name="Moviesmart Türk"tvg-id=""tvg-logo="https://www.yuksekovaguncel.com.tr/images/haberler/d_smartin_hd_kanal_sayisi_artiyor_h55683.jpg"group-title="Sinema",Moviesmart Türk
-https://tv.prectv5.sbs/live/mvturk.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",atv
