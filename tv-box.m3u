@@ -1,12 +1,19 @@
 #EXTM3U x-tvg-url="https://xmltv.tvkaista.net/guides/tvplus.com.tr.xml"
-#EXTINF:-1 tvg-name="FX"tvg-id=""tvg-logo="https://pbs.twimg.com/profile_images/1715419203610857472/W2ZpsXbt_400x400.jpg"group-title="Sinema",FX
-https://tv.prectv5.sbs/live/fx.m3u8
-#EXTINF:-1 tvg-name="Bein Movies Stars"tvg-id=""tvg-logo=""group-title="Sinema",Bein Movies Stars
-https://tv.prectv5.sbs/live/bsstars.m3u8
-#EXTINF:-1 tvg-name="Bein Movies Premiere"tvg-id=""tvg-logo="https://media0065.elcinema.com/tvguide/1322_1.png"group-title="Sinema",Bein Movies premiere
-https://tv.prectv5.sbs/live/bspremier1.m3u8
-#EXTINF:-1 tvg-name="Bein Movies Turk"tvg-id=""tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/bein-movies-turk-276547.png"group-title="Sinema",Bein Movies Turk
-https://tv.prectv5.sbs/live/bsturk.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN BOX OFFICE 1 FHD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_box_office.png" group-title="Turcia",TR: BEIN BOX OFFICE 1 FHD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/57259
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN BOX OFFICE 2 FHD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_box_office_2.png" group-title="Turcia",TR: BEIN BOX OFFICE 2 FHD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/57260
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN BOX OFFICE 3 FHD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_box_office_3.png" group-title="Turcia",TR: BEIN BOX OFFICE 3 FHD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/57261
+#EXTINF:-1 tvg-id="" tvg-name="TR: SLTV ACTION HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/slsinemaaction.png" group-title="Turcia",TR: SLTV ACTION HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/57262
+#EXTINF:-1 tvg-id="" tvg-name="TR: SLTV KOMEDI HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/slsinemakomedi.png" group-title="Turcia",TR: SLTV KOMEDI HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/57263
+#EXTINF:-1 tvg-id="" tvg-name="TR: SLTV GOLD HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/slsinemagold.png" group-title="Turcia",TR: SLTV GOLD HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/57264
+
+
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",atv
@@ -113,6 +120,700 @@ http://stream.tvcdn.net/eglence/belgesel-tv.m3u8
 http://stream.tvcdn.net/eglence/saglikli-gunler-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f438ceb7-c0a8-4b3c-9415-aea43a02b93e.png" group-title="Eğlence",Tarih TV
 http://stream.tvcdn.net/eglence/tarih-tv.m3u8
+
+
+#######################################
+#EXTINF:-1 tvg-id="" tvg-name="TR: b**N MOVIES FAMILY HD+" tvg-logo="" group-title="Turcia(Rezerva)",TR: b**N MOVIES FAMILY HD+
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73562
+#EXTINF:-1 tvg-id="" tvg-name="TR: b**N MOVIES ACTION HD+" tvg-logo="" group-title="Turcia(Rezerva)",TR: b**N MOVIES ACTION HD+
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73563
+#EXTINF:-1 tvg-id="" tvg-name="TR: b**N M0VIES ACTI0N 2 HD+" tvg-logo="" group-title="Turcia(Rezerva)",TR: b**N M0VIES ACTI0N 2 HD+
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73564
+#EXTINF:-1 tvg-id="" tvg-name="TR: b**N M0VIES P*EMIER HD+" tvg-logo="" group-title="Turcia(Rezerva)",TR: b**N M0VIES P*EMIER HD+
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73565
+#EXTINF:-1 tvg-id="" tvg-name="TR: b**N MOVIES P*EMIERE 2 HD+" tvg-logo="" group-title="Turcia(Rezerva)",TR: b**N MOVIES P*EMIERE 2 HD+
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73566
+#EXTINF:-1 tvg-id="" tvg-name="TR: b**N M0VIES STARS HD+" tvg-logo="" group-title="Turcia(Rezerva)",TR: b**N M0VIES STARS HD+
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73567
+#EXTINF:-1 tvg-id="" tvg-name="TR: b**N M0VIES TURK HD+" tvg-logo="" group-title="Turcia(Rezerva)",TR: b**N M0VIES TURK HD+
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73568
+#EXTINF:-1 tvg-id="" tvg-name="TR: b**N S*RIES 1 HD+" tvg-logo="" group-title="Turcia(Rezerva)",TR: b**N S*RIES 1 HD+
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73569
+#EXTINF:-1 tvg-id="" tvg-name="TR: b**N S*RIES 3 HD+" tvg-logo="" group-title="Turcia(Rezerva)",TR: b**N S*RIES 3 HD+
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73570
+#EXTINF:-1 tvg-id="" tvg-name="TR: b**N S*RIES 2 HD+" tvg-logo="" group-title="Turcia(Rezerva)",TR: b**N S*RIES 2 HD+
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73571
+#EXTINF:-1 tvg-id="" tvg-name="TR: b**N S*RIES 4 HD+" tvg-logo="" group-title="Turcia(Rezerva)",TR: b**N S*RIES 4 HD+
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73572
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVİESMART CLASSİC HD+" tvg-logo="" group-title="Turcia(Rezerva)",TR: MOVİESMART CLASSİC HD+
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73573
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIESMART COCUK HD+" tvg-logo="" group-title="Turcia(Rezerva)",TR: MOVIESMART COCUK HD+
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73574
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVİESMART TURK HD+" tvg-logo="" group-title="Turcia(Rezerva)",TR: MOVİESMART TURK HD+
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73575
+#EXTINF:-1 tvg-id="" tvg-name="TR: DİZİ SMART PREMIUM HD+" tvg-logo="" group-title="Turcia(Rezerva)",TR: DİZİ SMART PREMIUM HD+
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73576
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZI SMART PREMIUM HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZI SMART PREMIUM HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73577
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZI SMART MAX HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZI SMART MAX HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73578
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZI SMART MAX HD+" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZI SMART MAX HD+
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73579
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV 1001 HD+" tvg-logo="" group-title="Turcia(Rezerva)",TR: SINEMA TV 1001 HD+
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73580
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV 1002 HD+" tvg-logo="" group-title="Turcia(Rezerva)",TR: SINEMA TV 1002 HD+
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73581
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV HD+" tvg-logo="" group-title="Turcia(Rezerva)",TR: SINEMA TV HD+
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73582
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV 2 HD+" tvg-logo="" group-title="Turcia(Rezerva)",TR: SINEMA TV 2 HD+
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73583
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV ACTION HD+" tvg-logo="" group-title="Turcia(Rezerva)",TR: SINEMA TV ACTION HD+
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73584
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV ACTION 2 HD+" tvg-logo="" group-title="Turcia(Rezerva)",TR: SINEMA TV ACTION 2 HD+
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73585
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV KOMEDI HD+" tvg-logo="" group-title="Turcia(Rezerva)",TR: SINEMA TV KOMEDI HD+
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73586
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV AILE HD+" tvg-logo="" group-title="Turcia(Rezerva)",TR: SINEMA TV AILE HD+
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73587
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV AILE 2 HD+" tvg-logo="" group-title="Turcia(Rezerva)",TR: SINEMA TV AILE 2 HD+
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73588
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV YERLI  HD+" tvg-logo="" group-title="Turcia(Rezerva)",TR: SINEMA TV YERLI  HD+
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73589
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV YERLI 2 HD+" tvg-logo="" group-title="Turcia(Rezerva)",TR: SINEMA TV YERLI 2 HD+
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73590
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV KOMEDI 2 HD+" tvg-logo="" group-title="Turcia(Rezerva)",TR: SINEMA TV KOMEDI 2 HD+
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73591
+#EXTINF:-1 tvg-id="" tvg-name="TR: FX HD+" tvg-logo="" group-title="Turcia(Rezerva)",TR: FX HD+
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73592
+#EXTINF:-1 tvg-id="" tvg-name="TR: FOX CRIME HD+" tvg-logo="" group-title="Turcia(Rezerva)",TR: FOX CRIME HD+
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73593
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Yerli 5" tvg-logo="" group-title="Turcia(Rezerva)",TR: Cinemaximum Yerli 5
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73594
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Yerli 4" tvg-logo="" group-title="Turcia(Rezerva)",TR: Cinemaximum Yerli 4
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73595
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Yerli 3" tvg-logo="" group-title="Turcia(Rezerva)",TR: Cinemaximum Yerli 3
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73596
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Yerli 2" tvg-logo="" group-title="Turcia(Rezerva)",TR: Cinemaximum Yerli 2
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73597
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Yerli 1" tvg-logo="" group-title="Turcia(Rezerva)",TR: Cinemaximum Yerli 1
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73598
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Suc" tvg-logo="" group-title="Turcia(Rezerva)",TR: Cinemaximum Suc
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73599
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Romantik" tvg-logo="" group-title="Turcia(Rezerva)",TR: Cinemaximum Romantik
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73600
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Macera" tvg-logo="" group-title="Turcia(Rezerva)",TR: Cinemaximum Macera
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73601
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Korku" tvg-logo="" group-title="Turcia(Rezerva)",TR: Cinemaximum Korku
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73602
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Komedi" tvg-logo="" group-title="Turcia(Rezerva)",TR: Cinemaximum Komedi
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73603
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Gizem" tvg-logo="" group-title="Turcia(Rezerva)",TR: Cinemaximum Gizem
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73604
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Gerilim" tvg-logo="" group-title="Turcia(Rezerva)",TR: Cinemaximum Gerilim
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73605
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Fantastik" tvg-logo="" group-title="Turcia(Rezerva)",TR: Cinemaximum Fantastik
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73606
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Dram" tvg-logo="" group-title="Turcia(Rezerva)",TR: Cinemaximum Dram
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73607
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Bilim Kurgu" tvg-logo="" group-title="Turcia(Rezerva)",TR: Cinemaximum Bilim Kurgu
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73608
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Animasyon" tvg-logo="" group-title="Turcia(Rezerva)",TR: Cinemaximum Animasyon
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73609
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cinemaximum Aksiyon" tvg-logo="" group-title="Turcia(Rezerva)",TR: Cinemaximum Aksiyon
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73610
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Kanit" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Kanit
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73611
+#EXTINF:-1 tvg-id="" tvg-name="TR: b**N B0X 0FFİCE 1 HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: b**N B0X 0FFİCE 1 HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73612
+#EXTINF:-1 tvg-id="" tvg-name="TR: b**N B0X 0FFİCE 2 HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: b**N B0X 0FFİCE 2 HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73613
+#EXTINF:-1 tvg-id="" tvg-name="TR: b**N B*X OFFİCE 3 HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: b**N B*X OFFİCE 3 HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73614
+#EXTINF:-1 tvg-id="" tvg-name="TR:  MAX Aksiyon HD" tvg-logo="" group-title="Turcia(Rezerva)",TR:  MAX Aksiyon HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73615
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Aksiyon 2 HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: MAX Aksiyon 2 HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73616
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Premier HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: MAX Premier HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73617
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Orjinal HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: MAX Orjinal HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73618
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Western HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: MAX Western HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73619
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Hint Filimleri" tvg-logo="" group-title="Turcia(Rezerva)",TR: MAX Hint Filimleri
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73620
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: MAX Vizyon HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73621
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 2 HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: MAX Vizyon 2 HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73622
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 3 HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: MAX Vizyon 3 HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73623
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 4 HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: MAX Vizyon 4 HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73624
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX 007 HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: MAX 007 HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73625
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX STAR WARS HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: MAX STAR WARS HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73626
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX TURK HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: MAX TURK HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73627
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX PLUS HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: MAX PLUS HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73628
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX GOLD HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: MAX GOLD HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73629
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK VIZYON" tvg-logo="" group-title="Turcia(Rezerva)",TR: DINAMIK VIZYON
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73630
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK AKSIYON" tvg-logo="" group-title="Turcia(Rezerva)",TR: DINAMIK AKSIYON
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73631
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK BILIMKURGU" tvg-logo="" group-title="Turcia(Rezerva)",TR: DINAMIK BILIMKURGU
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73632
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK BOX-SET" tvg-logo="" group-title="Turcia(Rezerva)",TR: DINAMIK BOX-SET
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73633
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST NETFLIX" tvg-logo="" group-title="Turcia(Rezerva)",TR: BEST NETFLIX
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73634
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK DRAM" tvg-logo="" group-title="Turcia(Rezerva)",TR: DINAMIK DRAM
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73635
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK IMBD" tvg-logo="" group-title="Turcia(Rezerva)",TR: DINAMIK IMBD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73636
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK TURK" tvg-logo="" group-title="Turcia(Rezerva)",TR: DINAMIK TURK
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73637
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK KOMEDI" tvg-logo="" group-title="Turcia(Rezerva)",TR: DINAMIK KOMEDI
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73638
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK KORKU" tvg-logo="" group-title="Turcia(Rezerva)",TR: DINAMIK KORKU
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73639
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK LOCA 1" tvg-logo="" group-title="Turcia(Rezerva)",TR: DINAMIK LOCA 1
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73640
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK LOCA 2" tvg-logo="" group-title="Turcia(Rezerva)",TR: DINAMIK LOCA 2
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73641
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK LOCA 3" tvg-logo="" group-title="Turcia(Rezerva)",TR: DINAMIK LOCA 3
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73642
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK YESILCAM" tvg-logo="" group-title="Turcia(Rezerva)",TR: DINAMIK YESILCAM
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73643
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK ANIMASYON" tvg-logo="" group-title="Turcia(Rezerva)",TR: DINAMIK ANIMASYON
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73644
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST WESTERN" tvg-logo="" group-title="Turcia(Rezerva)",TR: BEST WESTERN
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73645
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SAVAS" tvg-logo="" group-title="Turcia(Rezerva)",TR: DINAMIK SAVAS
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73646
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK UZAKDOGU" tvg-logo="" group-title="Turcia(Rezerva)",TR: DINAMIK UZAKDOGU
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73647
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK KEMAL SUNAL" tvg-logo="" group-title="Turcia(Rezerva)",TR: DINAMIK KEMAL SUNAL
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73648
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SENER SEN" tvg-logo="" group-title="Turcia(Rezerva)",TR: DINAMIK SENER SEN
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73649
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK WESTERN" tvg-logo="" group-title="Turcia(Rezerva)",TR: DINAMIK WESTERN
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73650
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK MARVEL" tvg-logo="" group-title="Turcia(Rezerva)",TR: DINAMIK MARVEL
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73651
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK MUZIK" tvg-logo="" group-title="Turcia(Rezerva)",TR: DINAMIK MUZIK
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73652
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK HABABAM SINIFI" tvg-logo="" group-title="Turcia(Rezerva)",TR: DINAMIK HABABAM SINIFI
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73653
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 1" tvg-logo="" group-title="Turcia(Rezerva)",TR: DINAMIK SALON 1
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73654
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 2" tvg-logo="" group-title="Turcia(Rezerva)",TR: DINAMIK SALON 2
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73655
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 3" tvg-logo="" group-title="Turcia(Rezerva)",TR: DINAMIK SALON 3
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73656
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 4" tvg-logo="" group-title="Turcia(Rezerva)",TR: DINAMIK SALON 4
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73657
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 5" tvg-logo="" group-title="Turcia(Rezerva)",TR: DINAMIK SALON 5
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73658
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 6" tvg-logo="" group-title="Turcia(Rezerva)",TR: DINAMIK SALON 6
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73659
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 7" tvg-logo="" group-title="Turcia(Rezerva)",TR: DINAMIK SALON 7
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73660
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 8" tvg-logo="" group-title="Turcia(Rezerva)",TR: DINAMIK SALON 8
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73661
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 9" tvg-logo="" group-title="Turcia(Rezerva)",TR: DINAMIK SALON 9
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73662
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 10" tvg-logo="" group-title="Turcia(Rezerva)",TR: DINAMIK SALON 10
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73663
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD IMBD" tvg-logo="" group-title="Turcia(Rezerva)",TR: ULTRA HD IMBD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73664
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD AKSIYON" tvg-logo="" group-title="Turcia(Rezerva)",TR: ULTRA HD AKSIYON
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73665
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD ANIMASYON" tvg-logo="" group-title="Turcia(Rezerva)",TR: ULTRA HD ANIMASYON
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73666
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD BILIMKURGU" tvg-logo="" group-title="Turcia(Rezerva)",TR: ULTRA HD BILIMKURGU
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73667
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD KEMAL SUNAL" tvg-logo="" group-title="Turcia(Rezerva)",TR: ULTRA HD KEMAL SUNAL
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73668
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD KOMEDI" tvg-logo="" group-title="Turcia(Rezerva)",TR: ULTRA HD KOMEDI
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73669
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD KORKU" tvg-logo="" group-title="Turcia(Rezerva)",TR: ULTRA HD KORKU
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73670
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD SAVAS" tvg-logo="" group-title="Turcia(Rezerva)",TR: ULTRA HD SAVAS
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73671
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD TURK" tvg-logo="" group-title="Turcia(Rezerva)",TR: ULTRA HD TURK
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73672
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM TURK" tvg-logo="" group-title="Turcia(Rezerva)",TR: DREAM TURK
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73673
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM SAVAS" tvg-logo="" group-title="Turcia(Rezerva)",TR: DREAM SAVAS
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73674
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 1" tvg-logo="" group-title="Turcia(Rezerva)",TR: DREAM b**N OFFE 1
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73675
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 2" tvg-logo="" group-title="Turcia(Rezerva)",TR: DREAM b**N OFFE 2
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73676
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 3" tvg-logo="" group-title="Turcia(Rezerva)",TR: DREAM b**N OFFE 3
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73677
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 4" tvg-logo="" group-title="Turcia(Rezerva)",TR: DREAM b**N OFFE 4
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73678
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 5" tvg-logo="" group-title="Turcia(Rezerva)",TR: DREAM b**N OFFE 5
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73679
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 6" tvg-logo="" group-title="Turcia(Rezerva)",TR: DREAM b**N OFFE 6
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73680
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 7" tvg-logo="" group-title="Turcia(Rezerva)",TR: DREAM b**N OFFE 7
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73681
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 8" tvg-logo="" group-title="Turcia(Rezerva)",TR: DREAM b**N OFFE 8
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73682
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 9" tvg-logo="" group-title="Turcia(Rezerva)",TR: DREAM b**N OFFE 9
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73683
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 10" tvg-logo="" group-title="Turcia(Rezerva)",TR: DREAM b**N OFFE 10
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73684
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM BILIMKURGU" tvg-logo="" group-title="Turcia(Rezerva)",TR: DREAM BILIMKURGU
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73685
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM BOX-SET" tvg-logo="" group-title="Turcia(Rezerva)",TR: DREAM BOX-SET
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73686
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM DRAM" tvg-logo="" group-title="Turcia(Rezerva)",TR: DREAM DRAM
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73687
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM KEMAL SUNAL" tvg-logo="" group-title="Turcia(Rezerva)",TR: DREAM KEMAL SUNAL
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73688
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM KOMEDI" tvg-logo="" group-title="Turcia(Rezerva)",TR: DREAM KOMEDI
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73689
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM AKSIYON" tvg-logo="" group-title="Turcia(Rezerva)",TR: DREAM AKSIYON
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73690
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM ANIMASYON" tvg-logo="" group-title="Turcia(Rezerva)",TR: DREAM ANIMASYON
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73691
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM KORKU" tvg-logo="" group-title="Turcia(Rezerva)",TR: DREAM KORKU
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73692
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM LOCA 1" tvg-logo="" group-title="Turcia(Rezerva)",TR: DREAM LOCA 1
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73693
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM LOCA 2" tvg-logo="" group-title="Turcia(Rezerva)",TR: DREAM LOCA 2
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73694
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM LOCA 3" tvg-logo="" group-title="Turcia(Rezerva)",TR: DREAM LOCA 3
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73695
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST AKSIYON" tvg-logo="" group-title="Turcia(Rezerva)",TR: BEST AKSIYON
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73696
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST TURK" tvg-logo="" group-title="Turcia(Rezerva)",TR: BEST TURK
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73697
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST KOMEDI" tvg-logo="" group-title="Turcia(Rezerva)",TR: BEST KOMEDI
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73698
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST KORKU" tvg-logo="" group-title="Turcia(Rezerva)",TR: BEST KORKU
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73699
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST IMBD" tvg-logo="" group-title="Turcia(Rezerva)",TR: BEST IMBD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73700
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST BILIMKURGU" tvg-logo="" group-title="Turcia(Rezerva)",TR: BEST BILIMKURGU
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73701
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST DRAM" tvg-logo="" group-title="Turcia(Rezerva)",TR: BEST DRAM
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73702
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST SAVAS" tvg-logo="" group-title="Turcia(Rezerva)",TR: BEST SAVAS
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73703
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST ANIMASYON" tvg-logo="" group-title="Turcia(Rezerva)",TR: BEST ANIMASYON
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73704
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST YESILCAM" tvg-logo="" group-title="Turcia(Rezerva)",TR: BEST YESILCAM
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73705
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST LOCA 1" tvg-logo="" group-title="Turcia(Rezerva)",TR: BEST LOCA 1
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73706
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST LOCA 2" tvg-logo="" group-title="Turcia(Rezerva)",TR: BEST LOCA 2
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73707
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST LOCA 3" tvg-logo="" group-title="Turcia(Rezerva)",TR: BEST LOCA 3
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73708
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST SALON 1" tvg-logo="" group-title="Turcia(Rezerva)",TR: BEST SALON 1
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73709
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST SALON 2" tvg-logo="" group-title="Turcia(Rezerva)",TR: BEST SALON 2
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73710
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST SALON 3" tvg-logo="" group-title="Turcia(Rezerva)",TR: BEST SALON 3
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73711
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA AKSIYON HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: SINEMA AKSIYON HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73712
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX PREMIERE" tvg-logo="" group-title="Turcia(Rezerva)",TR: REDBOX PREMIERE
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73713
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX VIZYON 1 HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: REDBOX VIZYON 1 HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73714
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX VIZYON 2  HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: REDBOX VIZYON 2  HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73715
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX SINEMA TURK 1 HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: REDBOX SINEMA TURK 1 HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73716
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX SINEMA TURK  2 HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: REDBOX SINEMA TURK  2 HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73717
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX ACTIE 1 HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: REDBOX ACTIE 1 HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73718
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX BILIMKURGU 1 HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: REDBOX BILIMKURGU 1 HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73719
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX HORROR 1 HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: REDBOX HORROR 1 HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73720
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX MIX 1 HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: REDBOX MIX 1 HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73721
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX DRAMA HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: REDBOX DRAMA HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73722
+#EXTINF:-1 tvg-id="" tvg-name="TR:  FILMAX Türk HD" tvg-logo="" group-title="Turcia(Rezerva)",TR:  FILMAX Türk HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73723
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX GOLD HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: FILMAX GOLD HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73724
+#EXTINF:-1 tvg-id="" tvg-name="TR:  FILMAX FANTASTIK HD" tvg-logo="" group-title="Turcia(Rezerva)",TR:  FILMAX FANTASTIK HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73725
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Korku HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: FILMAX Korku HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73726
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Action HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: FILMAX Action HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73727
+#EXTINF:-1 tvg-id="" tvg-name="TR:  FILMAX COMEDY HD" tvg-logo="" group-title="Turcia(Rezerva)",TR:  FILMAX COMEDY HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73728
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Yesilcam" tvg-logo="" group-title="Turcia(Rezerva)",TR: FILMAX Yesilcam
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73729
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Kemal Sunal" tvg-logo="" group-title="Turcia(Rezerva)",TR: FILMAX Kemal Sunal
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73730
+#EXTINF:-1 tvg-id="" tvg-name="TR: Filmax Drama" tvg-logo="" group-title="Turcia(Rezerva)",TR: Filmax Drama
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73731
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yesilcam Sinema HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: Yesilcam Sinema HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73732
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal TV" tvg-logo="" group-title="Turcia(Rezerva)",TR: Kemal Sunal TV
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73733
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST HABABAM SINIFI" tvg-logo="" group-title="Turcia(Rezerva)",TR: BEST HABABAM SINIFI
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73734
+#EXTINF:-1 tvg-id="" tvg-name="TR: YESILCAM ZEKMET TV" tvg-logo="" group-title="Turcia(Rezerva)",TR: YESILCAM ZEKMET TV
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73735
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM WESTERN" tvg-logo="" group-title="Turcia(Rezerva)",TR: DREAM WESTERN
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73736
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM NETFLIX" tvg-logo="" group-title="Turcia(Rezerva)",TR: DREAM NETFLIX
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73737
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA ANIMASYON" tvg-logo="" group-title="Turcia(Rezerva)",TR: ULTRA ANIMASYON
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73738
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX AILE" tvg-logo="" group-title="Turcia(Rezerva)",TR: FILMAX AILE
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73739
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX BILIM KURGU" tvg-logo="" group-title="Turcia(Rezerva)",TR: FILMAX BILIM KURGU
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73740
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX GERILIM" tvg-logo="" group-title="Turcia(Rezerva)",TR: FILMAX GERILIM
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73741
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX ROMANTIK" tvg-logo="" group-title="Turcia(Rezerva)",TR: FILMAX ROMANTIK
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73742
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX SAVAS" tvg-logo="" group-title="Turcia(Rezerva)",TR: FILMAX SAVAS
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73743
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX IMDB TOP" tvg-logo="" group-title="Turcia(Rezerva)",TR: FILMAX IMDB TOP
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73744
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX DISNEY" tvg-logo="" group-title="Turcia(Rezerva)",TR: FILMAX DISNEY
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73745
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX LIFE" tvg-logo="" group-title="Turcia(Rezerva)",TR: DOCUAX LIFE
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73746
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX EARTH" tvg-logo="" group-title="Turcia(Rezerva)",TR: DOCUAX EARTH
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73747
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX WAR" tvg-logo="" group-title="Turcia(Rezerva)",TR: DOCUAX WAR
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73748
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Belgesel" tvg-logo="" group-title="Turcia(Rezerva)",TR: NETFLIX Belgesel
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73749
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Animasyon" tvg-logo="" group-title="Turcia(Rezerva)",TR: NETFLIX Animasyon
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73750
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Mıx 10" tvg-logo="" group-title="Turcia(Rezerva)",TR: NETFLIX Mıx 10
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73751
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Mıx 9" tvg-logo="" group-title="Turcia(Rezerva)",TR: NETFLIX Mıx 9
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73752
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Mıx 8" tvg-logo="" group-title="Turcia(Rezerva)",TR: NETFLIX Mıx 8
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73753
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Mıx 7" tvg-logo="" group-title="Turcia(Rezerva)",TR: NETFLIX Mıx 7
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73754
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Mıx 6" tvg-logo="" group-title="Turcia(Rezerva)",TR: NETFLIX Mıx 6
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73755
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Mıx 5" tvg-logo="" group-title="Turcia(Rezerva)",TR: NETFLIX Mıx 5
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73756
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Mıx 4" tvg-logo="" group-title="Turcia(Rezerva)",TR: NETFLIX Mıx 4
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73757
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Mıx 3" tvg-logo="" group-title="Turcia(Rezerva)",TR: NETFLIX Mıx 3
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73758
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Mıx 2" tvg-logo="" group-title="Turcia(Rezerva)",TR: NETFLIX Mıx 2
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73759
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Mıx 1" tvg-logo="" group-title="Turcia(Rezerva)",TR: NETFLIX Mıx 1
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73760
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Suc" tvg-logo="" group-title="Turcia(Rezerva)",TR: NETFLIX Suc
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73761
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Romantik 3" tvg-logo="" group-title="Turcia(Rezerva)",TR: NETFLIX Romantik 3
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73762
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Romantik 2" tvg-logo="" group-title="Turcia(Rezerva)",TR: NETFLIX Romantik 2
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73763
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Romantik 1" tvg-logo="" group-title="Turcia(Rezerva)",TR: NETFLIX Romantik 1
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73764
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Macera" tvg-logo="" group-title="Turcia(Rezerva)",TR: NETFLIX Macera
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73765
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Korku" tvg-logo="" group-title="Turcia(Rezerva)",TR: NETFLIX Korku
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73766
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Komedi 3" tvg-logo="" group-title="Turcia(Rezerva)",TR: NETFLIX Komedi 3
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73767
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Komedi 2" tvg-logo="" group-title="Turcia(Rezerva)",TR: NETFLIX Komedi 2
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73768
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Komedi 1" tvg-logo="" group-title="Turcia(Rezerva)",TR: NETFLIX Komedi 1
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73769
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Gizem" tvg-logo="" group-title="Turcia(Rezerva)",TR: NETFLIX Gizem
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73770
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Gerilim 2" tvg-logo="" group-title="Turcia(Rezerva)",TR: NETFLIX Gerilim 2
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73771
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Gerilim 1" tvg-logo="" group-title="Turcia(Rezerva)",TR: NETFLIX Gerilim 1
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73772
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Fantastik" tvg-logo="" group-title="Turcia(Rezerva)",TR: NETFLIX Fantastik
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73773
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Dram 3" tvg-logo="" group-title="Turcia(Rezerva)",TR: NETFLIX Dram 3
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73774
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Dram 2" tvg-logo="" group-title="Turcia(Rezerva)",TR: NETFLIX Dram 2
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73775
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Dram 1" tvg-logo="" group-title="Turcia(Rezerva)",TR: NETFLIX Dram 1
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73776
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Bollywood" tvg-logo="" group-title="Turcia(Rezerva)",TR: NETFLIX Bollywood
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73777
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Bilimkurgu" tvg-logo="" group-title="Turcia(Rezerva)",TR: NETFLIX Bilimkurgu
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73778
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Aksiyon 3" tvg-logo="" group-title="Turcia(Rezerva)",TR: NETFLIX Aksiyon 3
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73779
+#EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Aksiyon 1" tvg-logo="" group-title="Turcia(Rezerva)",TR: NETFLIX Aksiyon 1
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73780
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Yargi" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Yargi
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73781
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Yalan Dunya" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Yalan Dunya
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73782
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Veda Mektubu" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Veda Mektubu
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73783
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Genis Aile" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Genis Aile
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73784
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Eskiya Dunyaya Hukumdar Olmaz" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Eskiya Dunyaya Hukumdar Olmaz
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73785
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Cop Adam" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Cop Adam
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73786
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX BABA" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX BABA
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73787
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Ates Kuslari" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Ates Kuslari
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73788
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Aile" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Aile
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73789
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX A.RIZA" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX A.RIZA
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73790
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Gaddar" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Gaddar
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73791
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Asmali Konak" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Asmali Konak
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73792
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Yalanci Yarim HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Yalanci Yarim HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73793
+#EXTINF:-1 tvg-id="" tvg-name="TR: Muge Anli ile Tatli Sert" tvg-logo="" group-title="Turcia(Rezerva)",TR: Muge Anli ile Tatli Sert
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73794
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Medcezir" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Medcezir
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73795
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Sakarya Firat" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Sakarya Firat
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73796
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Avrupa Yakasi" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Avrupa Yakasi
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73797
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Muhtesem Yuzyil" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Muhtesem Yuzyil
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73798
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Adanali" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Adanali
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73799
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Aci Hayat" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Aci Hayat
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73800
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Cukur HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Cukur HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73801
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Ask Memnu HD" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Ask Memnu HD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73802
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Kurtlar Vadisi" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Kurtlar Vadisi
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73803
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Cocuklar Duymasin" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Cocuklar Duymasin
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73804
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Game of Thrones" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Game of Thrones
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73805
+#EXTINF:-1 tvg-id="" tvg-name="TR: DİZİAX Atiye" tvg-logo="" group-title="Turcia(Rezerva)",TR: DİZİAX Atiye
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73806
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN ERSAN KUNTERI" tvg-logo="" group-title="Turcia(Rezerva)",TR: EXXEN ERSAN KUNTERI
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73807
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Hercai" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Hercai
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73808
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Cicek Taxi" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Cicek Taxi
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73809
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Ezel" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Ezel
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73810
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Masumlar Apartmani" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Masumlar Apartmani
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73811
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Kirmizi Oda" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Kirmizi Oda
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73812
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX S1F1R B1R ADANA" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX S1F1R B1R ADANA
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73813
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Sokagin Cocuklari" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Sokagin Cocuklari
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73814
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Sadakatsiz" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Sadakatsiz
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73815
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX YILAN HIKAYESI" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX YILAN HIKAYESI
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73816
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Behzat Ç" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Behzat Ç
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73817
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Alemin Kralı" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Alemin Kralı
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73818
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Jet Sosyete" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Jet Sosyete
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73819
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Ramo" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Ramo
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73820
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Diriliş Ertuğrul" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Diriliş Ertuğrul
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73821
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX KONUSANLAR" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX KONUSANLAR
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73822
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX EKMEK TEKNESI" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX EKMEK TEKNESI
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73823
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX NICOLAS CAGE" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX NICOLAS CAGE
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73824
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Breaking Bad" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Breaking Bad
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73825
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX TOM CRUISE" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX TOM CRUISE
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73826
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX  BRUCE WILLS" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX  BRUCE WILLS
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73827
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX SYLVESTER STALLONE" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX SYLVESTER STALLONE
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73828
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX JETLI" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX JETLI
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73829
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX JASON STATHAM" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX JASON STATHAM
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73830
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX JACKY CHAN" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX JACKY CHAN
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73831
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX VAN DAMME" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX VAN DAMME
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73832
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX CAMERON DIAZ" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX CAMERON DIAZ
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73833
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ARNOLD SCHWARZENEGGER" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX ARNOLD SCHWARZENEGGER
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73834
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ANGELINE JOLIE" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX ANGELINE JOLIE
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73835
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ALPACINO" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX ALPACINO
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73836
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX SUSKUNLAR" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX SUSKUNLAR
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73837
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX DAREDEVIL" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX DAREDEVIL
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73838
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX DARK" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX DARK
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73839
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX BINBIR GECE" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX BINBIR GECE
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73840
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX LA CASA DE PAPEL" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX LA CASA DE PAPEL
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73841
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX BLACKLIST" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX BLACKLIST
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73842
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX NARCOS" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX NARCOS
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73843
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX OZARK" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX OZARK
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73844
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX PRISON BREAK" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX PRISON BREAK
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73845
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX THE WALKING DEAD" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX THE WALKING DEAD
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73846
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Stranger Things" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Stranger Things
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73847
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX VAN HELSING" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX VAN HELSING
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73848
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX VIKINGS" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX VIKINGS
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73849
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX LOST IN SPACE" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX LOST IN SPACE
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73850
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX LUCIFER" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX LUCIFER
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73851
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX FLASH" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX FLASH
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73852
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ELITE" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX ELITE
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73853
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX El Chapo" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX El Chapo
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73854
+#EXTINF:-1 tvg-id="" tvg-name="TR: TR: DIZIAX LOTR Guc Yuzukleri" tvg-logo="" group-title="Turcia(Rezerva)",TR: TR: DIZIAX LOTR Guc Yuzukleri
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73855
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX House Of Dragon" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX House Of Dragon
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73856
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX BRUCE LEE TV" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX BRUCE LEE TV
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73857
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Designated Survivor" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Designated Survivor
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73858
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX KOBRA KAİ" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX KOBRA KAİ
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73859
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX 007 JAMES BOND" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX 007 JAMES BOND
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73860
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX HARRY POTTER" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX HARRY POTTER
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73861
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ROCKY BALBOA" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX ROCKY BALBOA
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73862
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX RECEP IVEDIK" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX RECEP IVEDIK
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73863
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ALACAKARANLIK EFSANESI" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX ALACAKARANLIK EFSANESI
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73864
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ÖLÜMCÜL DENEY" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX ÖLÜMCÜL DENEY
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73865
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX HOBBIT TV" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX HOBBIT TV
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73866
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX BATMAN TV" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX BATMAN TV
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73867
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX SUPERMAN TV" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX SUPERMAN TV
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73868
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ORUMCEK ADAM" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX ORUMCEK ADAM
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73869
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX KARAYIP KORSANLARI" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX KARAYIP KORSANLARI
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73870
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ZOR OLUM" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX ZOR OLUM
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73871
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX CEHENNEM SILAHI" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX CEHENNEM SILAHI
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73872
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX SON DURAK" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX SON DURAK
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73873
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX POLIS AKEDEMISI" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX POLIS AKEDEMISI
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73874
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX TESTERE SAW" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX TESTERE SAW
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73875
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX TERMINATOR TV" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX TERMINATOR TV
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73876
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX X-MEN TV" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX X-MEN TV
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73877
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX 13.CUMA" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX 13.CUMA
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73878
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX TRANSFORMERS" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX TRANSFORMERS
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73879
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX MUMYA" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX MUMYA
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73880
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX THE BOURNE" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX THE BOURNE
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73881
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX THE MATRİX" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX THE MATRİX
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73882
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX STAR TREK" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX STAR TREK
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73883
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX MAYMUNLAR CEHENEMI" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX MAYMUNLAR CEHENEMI
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73884
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ALIEN VS PREDATOR" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX ALIEN VS PREDATOR
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73885
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX RAMBO" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX RAMBO
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73886
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX MASKELI BESLER" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX MASKELI BESLER
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73887
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX CILGIN DERSHANE" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX CILGIN DERSHANE
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73888
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX KARANLIKLAR ULKESI" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX KARANLIKLAR ULKESI
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73889
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX IP-MAN" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX IP-MAN
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73890
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX CAMDAKİ KIZ" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX CAMDAKİ KIZ
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73891
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX KARDESLERIM" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX KARDESLERIM
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73892
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX BEN BU CIHANA SIGMAM" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX BEN BU CIHANA SIGMAM
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73893
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX UC KIZ KARDES" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX UC KIZ KARDES
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73894
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX UC KURUS" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX UC KURUS
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73895
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ICERDE" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX ICERDE
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73896
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX HATIRLA SEVGILI" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX HATIRLA SEVGILI
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73897
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX GUZEL KOYLU" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX GUZEL KOYLU
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73898
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ELVEDA RUMELI" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX ELVEDA RUMELI
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73899
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX COCUK" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX COCUK
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73900
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX BENIM ADIM MELEK" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX BENIM ADIM MELEK
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73901
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX AVLU" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX AVLU
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73902
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAC ANNE" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAC ANNE
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73903
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ALEV ALEV" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX ALEV ALEV
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73904
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Kurtlar Vadisi Pusu" tvg-logo="" group-title="Turcia(Rezerva)",TR: DIZIAX Kurtlar Vadisi Pusu
+http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/73905
+####################################3
+
+
 
 #EXTINF:-1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
