@@ -1,19 +1,4 @@
 #EXTM3U x-tvg-url="https://xmltv.tvkaista.net/guides/tvplus.com.tr.xml"
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN BOX OFFICE 1 FHD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_box_office.png" group-title="Turcia",TR: BEIN BOX OFFICE 1 FHD
-http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/57259
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN BOX OFFICE 2 FHD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_box_office_2.png" group-title="Turcia",TR: BEIN BOX OFFICE 2 FHD
-http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/57260
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN BOX OFFICE 3 FHD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/bein_box_office_3.png" group-title="Turcia",TR: BEIN BOX OFFICE 3 FHD
-http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/57261
-#EXTINF:-1 tvg-id="" tvg-name="TR: SLTV ACTION HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/slsinemaaction.png" group-title="Turcia",TR: SLTV ACTION HD
-http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/57262
-#EXTINF:-1 tvg-id="" tvg-name="TR: SLTV KOMEDI HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/slsinemakomedi.png" group-title="Turcia",TR: SLTV KOMEDI HD
-http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/57263
-#EXTINF:-1 tvg-id="" tvg-name="TR: SLTV GOLD HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/turkeyT/slsinemagold.png" group-title="Turcia",TR: SLTV GOLD HD
-http://tirolina.ro:8080/2xuTW41klI71/ysD7hxF0BSR8IPK/57264
-
-
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",atv
