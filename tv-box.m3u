@@ -13,6 +13,8 @@ https://tv.prectv5.sbs/live/bsstars.m3u8
 https://tv.prectv5.sbs/live/bspremier1.m3u8
 #EXTINF:-1 tvg-name="Bein Movies Turk"tvg-id=""tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/bein-movies-turk-276547.png"group-title="Sinema",Bein Movies Turk
 https://tv.prectv5.sbs/live/bsturk.m3u8
+#EXTINF:-1 tvg-name="BEIN MOVIES FAMILY ʜᴅ"tvg-id=""tvg-logo=""group-title="Sinema":http-referrer="":http-user-agent="",BEIN MOVIES FAMILY ʜᴅ
+https://tv.prectv5.sbs/live/bsfamily.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",atv
