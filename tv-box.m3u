@@ -1,4 +1,57 @@
 #EXTM3U x-tvg-url="https://xmltv.tvkaista.net/guides/tvplus.com.tr.xml"
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SINEMA TV" tvg-logo="" group-title="Turcia",SINEMA TV
+http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178246
+#EXTINF:-1 tvg-id="" tvg-name="SINEMA TV 2" tvg-logo="" group-title="Turcia",SINEMA TV 2
+http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178245
+#EXTINF:-1 tvg-id="" tvg-name="SINEMA TV YERLI" tvg-logo="" group-title="Turcia",SINEMA TV YERLI
+http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178244
+#EXTINF:-1 tvg-id="" tvg-name="SINEMA TV YERLI 2" tvg-logo="" group-title="Turcia",SINEMA TV YERLI 2
+http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178243
+#EXTINF:-1 tvg-id="" tvg-name="SINEMA TV ACTION" tvg-logo="" group-title="Turcia",SINEMA TV ACTION
+http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178242
+#EXTINF:-1 tvg-id="" tvg-name="SINEMA TV ACTION 2" tvg-logo="" group-title="Turcia",SINEMA TV ACTION 2
+http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178241
+#EXTINF:-1 tvg-id="" tvg-name="SINEMA TV AILE" tvg-logo="" group-title="Turcia",SINEMA TV AILE
+http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178240
+#EXTINF:-1 tvg-id="" tvg-name="SINEMA TV AILE 2" tvg-logo="" group-title="Turcia",SINEMA TV AILE 2
+http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178239
+#EXTINF:-1 tvg-id="" tvg-name="SINEMA TV KOMEDI" tvg-logo="" group-title="Turcia",SINEMA TV KOMEDI
+http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178238
+#EXTINF:-1 tvg-id="" tvg-name="SINEMA TV KOMEDI 2" tvg-logo="" group-title="Turcia",SINEMA TV KOMEDI 2
+http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178237
+#EXTINF:-1 tvg-id="" tvg-name="SINEMA TV 1001" tvg-logo="" group-title="Turcia",SINEMA TV 1001
+http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178236
+#EXTINF:-1 tvg-id="" tvg-name="SINEMA TV 1002" tvg-logo="" group-title="Turcia",SINEMA TV 1002
+http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178235
+#EXTINF:-1 tvg-id="" tvg-name="TR -- TR -- beIN MOVIES TURK HD" tvg-logo="" group-title="Turcia",TR -- TR -- beIN MOVIES TURK HD
+http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178234
+#EXTINF:-1 tvg-id="" tvg-name="TR -- beIN MOVIES PREMIERE HD" tvg-logo="" group-title="Turcia",TR -- beIN MOVIES PREMIERE HD
+http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178233
+#EXTINF:-1 tvg-id="" tvg-name="TR -- beIN MOVIES PREMIERE 2 HD" tvg-logo="" group-title="Turcia",TR -- beIN MOVIES PREMIERE 2 HD
+http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178232
+#EXTINF:-1 tvg-id="" tvg-name="TR -- beIN MOVIES STARS HD" tvg-logo="" group-title="Turcia",TR -- beIN MOVIES STARS HD
+http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178231
+#EXTINF:-1 tvg-id="" tvg-name="TR -- beIN SERIES COMEDY HD" tvg-logo="" group-title="Turcia",TR -- beIN SERIES COMEDY HD
+http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178230
+#EXTINF:-1 tvg-id="" tvg-name="TR -- beIN SERIES DRAMA HD" tvg-logo="" group-title="Turcia",TR -- beIN SERIES DRAMA HD
+http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178229
+#EXTINF:-1 tvg-id="" tvg-name="TR -- beIN SERIES SCI-FI HD" tvg-logo="" group-title="Turcia",TR -- beIN SERIES SCI-FI HD
+http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178228
+#EXTINF:-1 tvg-id="" tvg-name="TR -- beIN SERIES VICE HD" tvg-logo="" group-title="Turcia",TR -- beIN SERIES VICE HD
+http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178227
+#EXTINF:-1 tvg-id="" tvg-name="TR -- MOVIE SMART TURK HD" tvg-logo="" group-title="Turcia",TR -- MOVIE SMART TURK HD
+http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178226
+#EXTINF:-1 tvg-id="" tvg-name="TR -- MOVIE SMART CLASSIC HD" tvg-logo="" group-title="Turcia",TR -- MOVIE SMART CLASSIC HD
+http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178225
+#EXTINF:-1 tvg-id="" tvg-name="TR -- DIZI SMART PREMIUM HD" tvg-logo="" group-title="Turcia",TR -- DIZI SMART PREMIUM HD
+http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178224
+#EXTINF:-1 tvg-id="" tvg-name="TR -- FX HD" tvg-logo="" group-title="Turcia",TR -- FX HD
+http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178223
+
+
+
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",atv
