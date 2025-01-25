@@ -1,8 +1,8 @@
 #EXTM3U
-x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_TR1.xml"
-#EXTINF:-1 tvg-id="Sinema.TV.tr" tvg-name="Sinema TV" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-tv-768x104.png" group-title="Turcia",SINEMA
+x-tvg-url="https://www.open-epg.com/files/turkey2.xml"
+#EXTINF:-1 tvg-id="Sinema Tv.tr" tvg-name="Sinema Tv.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-tv-768x104.png" group-title="Turcia",SINEMA
 http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178246
-#EXTINF:-1 tvg-id="Sinema.2.tr" tvg-name="SINEMA TV 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-2-tv-768x117.png" group-title="Turcia",SINEMA 2
+#EXTINF:-1 tvg-id="Sinema Tv 2.tr" tvg-name="SINEMA TV 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-2-tv-768x117.png" group-title="Turcia",SINEMA 2
 http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178245
 #EXTINF:-1 tvg-id="Sinema.Aksiyon.tr" tvg-name="Sinema Aksiyon" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aksiyon-768x70.png" group-title="Turcia",SINEMA AKSİYON
 http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178242
