@@ -1,5 +1,4 @@
-#EXTM3U x-tvg-url="https://xmltv.tvkaista.net/guides/tvplus.com.tr.xml"
-
+#EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="SINEMA TV" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sinematv_ikon.png?w=120%h=0" group-title="Turcia",SINEMA TV
 http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178246
