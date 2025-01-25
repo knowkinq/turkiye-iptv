@@ -1,28 +1,28 @@
 #EXTM3U
 x-tvg-url="https://www.open-epg.com/files/turkey2.xml"
-#EXTINF:-1 tvg-id="Sinema Tv.tr" tvg-name="Sinema Tv" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-tv-768x104.png" group-title="Turcia",SINEMA
+#EXTINF:-1 tvg-id="SİNEMA TV HD.tr" tvg-name="Sinema Tv" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-tv-768x104.png" group-title="Turcia",SINEMA
 http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178246
-#EXTINF:-1 tvg-id="Sinema Tv 2.tr" tvg-name="SINEMA TV 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-2-tv-768x117.png" group-title="Turcia",SINEMA 2
+#EXTINF:-1 tvg-id="SİNEMA 2 HD.tr" tvg-name="SINEMA TV 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-2-tv-768x117.png" group-title="Turcia",SINEMA 2
 http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178245
-#EXTINF:-1 tvg-id="Sinema Tv Aksiyon.tr" tvg-name="Sinema Aksiyon" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aksiyon-768x70.png" group-title="Turcia",SINEMA AKSİYON
+#EXTINF:-1 tvg-id="SİNEMA AKSİYON HD.tr" tvg-name="Sinema Aksiyon" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aksiyon-768x70.png" group-title="Turcia",SINEMA AKSİYON
 http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178242
-#EXTINF:-1 tvg-id="Sinema Tv Aksiyon 2.tr" tvg-name="Sinema Aksiyon 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aksiyon-2.png" group-title="Turcia",SINEMA AKSİYON 2
+#EXTINF:-1 tvg-id="SİNEMA AKSİYON 2 HD.tr" tvg-name="Sinema Aksiyon 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aksiyon-2.png" group-title="Turcia",SINEMA AKSİYON 2
 http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178241
-#EXTINF:-1 tvg-id="Sinema.Yerli.tr" tvg-name="Sinema Yerli" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema_yerli.png" group-title="Turcia",SINEMA YERLI
+#EXTINF:-1 tvg-id="SİNEMA YERLİ.tr" tvg-name="Sinema Yerli" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema_yerli.png" group-title="Turcia",SINEMA YERLI
 http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178244
-#EXTINF:-1 tvg-id="Sinema.Yerli.2.tr" tvg-name="Sinema Yerli 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-yerli-2.png" group-title="Turcia",SINEMA YERLI 2
+#EXTINF:-1 tvg-id="SİNEMA YERLİ 2.tr" tvg-name="Sinema Yerli 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-yerli-2.png" group-title="Turcia",SINEMA YERLI 2
 http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178243
-#EXTINF:-1 tvg-id="Sinema Tv Aile.tr" tvg-name="Sinema Aile" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png" group-title="Turcia",SINEMA AILE
+#EXTINF:-1 tvg-id="Sinema Aile.tr" tvg-name="Sinema Aile" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png" group-title="Turcia",SINEMA AILE
 http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178240
-#EXTINF:-1 tvg-id="Sinema Tv Aile 2.tr" tvg-name="Sinema Aile 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aile.png" group-title="Turcia",SINEMA AILE 2
+#EXTINF:-1 tvg-id="SİNEMA AİLE 2 HD.tr" tvg-name="Sinema Aile 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aile.png" group-title="Turcia",SINEMA AILE 2
 http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178239
-#EXTINF:-1 tvg-id="Sinema Tv Comedy.tr" tvg-name="Sinema Komedi" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-komed.png" group-title="Turcia",SINEMA KOMEDI
+#EXTINF:-1 tvg-id="SİNEMA KOMEDİ HD.tr" tvg-name="Sinema Komedi" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-komed.png" group-title="Turcia",SINEMA KOMEDI
 http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178238
-#EXTINF:-1 tvg-id="Sinema Tv Comedy 2.tr" tvg-name="Sinema Komedi 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-komedi.png" group-title="Turcia",SINEMA KOMEDI 2
+#EXTINF:-1 tvg-id="SİNEMA KOMEDİ 2 HD.tr" tvg-name="Sinema Komedi 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-komedi.png" group-title="Turcia",SINEMA KOMEDI 2
 http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178237
-#EXTINF:-1 tvg-id="Sinema Tv 1001.tr" tvg-name="Sinema 1001" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-1001-768x94.png" group-title="Turcia",SINEMA 1001
+#EXTINF:-1 tvg-id="SİNEMA 1001 HD.tr" tvg-name="Sinema 1001" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-1001-768x94.png" group-title="Turcia",SINEMA 1001
 http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178236
-#EXTINF:-1 tvg-id="Sinema Tv 1002.tr" tvg-name="Sinema 1002" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-1002.png" group-title="Turcia",SINEMA 1002
+#EXTINF:-1 tvg-id="İNEMA 1002.tr" tvg-name="Sinema 1002" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-1002.png" group-title="Turcia",SINEMA 1002
 http://quizbit.vip:8080/MihaiHertug/aWFMa2H2Yf/178235
 
 
