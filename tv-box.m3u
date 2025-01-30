@@ -108,7 +108,7 @@ http://stream.tvcdn.net/haber/tvnet.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d609d4ce-df23-4042-8537-460dc6d4ae18.png" group-title="Haber",Flash Haber
 https://internettv.guventechnology.com:19360/flashhabertv/flashhabertv.m3u8
 #EXTINF:-1 tvg-id="Ulusal TV.tr" tvg-logo="http://assets.tvcdn.net/1762dbd7-b2a4-497d-9cf0-3ecd075cf578.png" group-title="Haber",Ulusal Kanal
-https://internettv.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
+https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=Fr0Dku2UZmI.m3u8
 #EXTINF:-1 tvg-id="Benguturk TV.tr" tvg-logo="http://assets.tvcdn.net/a8fd43de-872a-4e58-9f07-ff22d21a6c24.png" group-title="Haber",Bengütürk TV
 http://stream.tvcdn.net/haber/benguturk-tv.m3u8
 
