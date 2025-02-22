@@ -149,7 +149,8 @@ http://stream.tvcdn.net/haber/dha-canli-1.m3u8
 http://stream.tvcdn.net/haber/dha-canli-2.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="beIN SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOY1yC0O_nuFGdMzGhvAK9L3JnYD6UJw3-qABYy_Xe1cQj31bNDQimXo&s=10",beIN Sports 1
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432184
-#EXTINF:-1  tvg-name="BEINSPORT- 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="Alternatif2",BEINSPORT- 1 HD
+#EXTINF:-1  tvg-name="BEINSPORTS 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="Alternatif3",BEINSPORTS 1 new HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 https://deathless-sporting-iptv.tiiny.io/?ID=bein-sports-1-turkey/158
 #EXTINF:-1  tvg-name="TJK TV" tvg-id="Spor_TJKTV" tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png" group-title="Spor",TJK TV
 http://stream.tvcdn.net/spor/tjk-tv.m3u8
