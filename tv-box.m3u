@@ -1,42 +1,42 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey2.xml"
-#EXTINF:-1  tvg-name="SINEMA" tvg-id="Sinema Tv.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-tv-768x104.png" group-title="SINEMA":http-referrer="":http-user-agent="",SINEMA
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1790
-#EXTINF:-1  tvg-name="SINEMA 2" tvg-id="Sinema Tv 2.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-2-tv-768x117.png" group-title="SINEMA":http-referrer="":http-user-agent="",SINEMA 2
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1774
-#EXTINF:-1  tvg-name="SINEMA AKSİYON" tvg-id="Sinema Tv Aksiyon.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aksiyon-768x70.png" group-title="SINEMA":http-referrer="":http-user-agent="",SINEMA AKSİYON
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1793
-#EXTINF:-1  tvg-name="SINEMA AKSİYON 2" tvg-id="Sinema Tv Aksiyon 2.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aksiyon-2.png" group-title="SINEMA":http-referrer="":http-user-agent="",SINEMA AKSİYON 2
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1772
-#EXTINF:-1  tvg-name="SINEMA YERLI" tvg-id="Sinema.Yerli.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema_yerli.png" group-title="SINEMA":http-referrer="":http-user-agent="",SINEMA YERLI
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1791
-#EXTINF:-1  tvg-name="SINEMA YERLI 2" tvg-id="Sinema.Yerli.2.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-yerli-2.png" group-title="SINEMA":http-referrer="":http-user-agent="",SINEMA YERLI 2
+#EXTINF:-1  tvg-name="SINEMA" tvg-id="Sinema Tv.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-tv-768x104.png" group-title="SINEMA",SINEMA
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432487
+#EXTINF:-1  tvg-name="SINEMA 2" tvg-id="Sinema Tv 2.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-2-tv-768x117.png" group-title="SINEMA",SINEMA 2
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432478
+#EXTINF:-1  tvg-name="SINEMA AKSİYON" tvg-id="Sinema Tv Aksiyon.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aksiyon-768x70.png" group-title="SINEMA",SINEMA AKSİYON
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432482
+#EXTINF:-1  tvg-name="SINEMA AKSİYON 2" tvg-id="Sinema Tv Aksiyon 2.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aksiyon-2.png" group-title="SINEMA",SINEMA AKSİYON 2
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432481
+#EXTINF:-1  tvg-name="SINEMA YERLI" tvg-id="Sinema.Yerli.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema_yerli.png" group-title="SINEMA",SINEMA YERLI
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432486
+#EXTINF:-1  tvg-name="SINEMA YERLI 2" tvg-id="Sinema.Yerli.2.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-yerli-2.png" group-title="SINEMA",SINEMA YERLI 2
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432485
-#EXTINF:-1  tvg-name="SINEMA AILE" tvg-id="Sinema Tv Aile.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png" group-title="SINEMA":http-referrer="":http-user-agent="",SINEMA AILE
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1794
-#EXTINF:-1  tvg-name="SINEMA AILE 2" tvg-id="Sinema Tv Aile 2.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aile.png" group-title="SINEMA":http-referrer="":http-user-agent="",SINEMA AILE 2
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/165582
-#EXTINF:-1  tvg-name="SINEMA KOMEDI" tvg-id="Sinema Tv Comedy.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-komed.png" group-title="SINEMA":http-referrer="":http-user-agent="",SINEMA KOMEDI
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1795
-#EXTINF:-1  tvg-name="SINEMA KOMEDI 2" tvg-id="Sinema Tv Comedy 2.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-komedi.png" group-title="SINEMA":http-referrer="":http-user-agent="",SINEMA KOMEDI 2
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/43541
-#EXTINF:-1  tvg-name="SINEMA 1001" tvg-id="Sinema Tv 1001.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-1001-768x94.png" group-title="SINEMA":http-referrer="":http-user-agent="",SINEMA 1001
+#EXTINF:-1  tvg-name="SINEMA AILE" tvg-id="Sinema Tv Aile.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png" group-title="SINEMA",SINEMA AILE
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432480
+#EXTINF:-1  tvg-name="SINEMA AILE 2" tvg-id="Sinema Tv Aile 2.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aile.png" group-title="SINEMA",SINEMA AILE 2
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432479
+#EXTINF:-1  tvg-name="SINEMA KOMEDI" tvg-id="Sinema Tv Comedy.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-komed.png" group-title="SINEMA",SINEMA KOMEDI
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432484
+#EXTINF:-1  tvg-name="SINEMA KOMEDI 2" tvg-id="Sinema Tv Comedy 2.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-komedi.png" group-title="SINEMA",SINEMA KOMEDI 2
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432483
+#EXTINF:-1  tvg-name="SINEMA 1001" tvg-id="Sinema Tv 1001.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-1001-768x94.png" group-title="SINEMA",SINEMA 1001
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432476
-#EXTINF:-1  tvg-name="SINEMA 1002" tvg-id="Sinema Tv 1002.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-1002.png" group-title="SINEMA":http-referrer="":http-user-agent="",SINEMA 1002
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/76722
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies Action" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-action-logo.png" group-title="TURKEY":http-referrer="":http-user-agent="",beIN Movies Action
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1761
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies Action 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-action-2-logo.png" group-title="TURKEY":http-referrer="":http-user-agent="",beIN Movies Action 2
+#EXTINF:-1  tvg-name="SINEMA 1002" tvg-id="Sinema Tv 1002.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-1002.png" group-title="SINEMA",SINEMA 1002
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432477
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies Action" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-action-logo.png" group-title="TURKEY",beIN Movies Action
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432173
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies Action 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-action-2-logo.png" group-title="TURKEY",beIN Movies Action 2
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432172
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies Family" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-family-logo.png" group-title="TURKEY":http-referrer="":http-user-agent="",beIN Movies Family
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1763
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies Premiere" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-premiere-logo.png" group-title="TURKEY":http-referrer="":http-user-agent="",beIN Movies Premiere
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1764
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies Premiere 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-premiere-logo-2.png" group-title="TURKEY":http-referrer="":http-user-agent="",beIN Movies Premiere 2
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1765
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies Stars" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-stars-logo.png" group-title="TURKEY":http-referrer="":http-user-agent="",beIN Movies Stars
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1766
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies Turk" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-turk-logo.jpg group-title="TURKEY":http-referrer="":http-user-agent="",beIN Movies Turk
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1767
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies Family" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-family-logo.png" group-title="TURKEY",beIN Movies Family
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432174
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies Premiere" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-premiere-logo.png" group-title="TURKEY",beIN Movies Premiere
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432176
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies Premiere 2" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-premiere-logo-2.png" group-title="TURKEY",beIN Movies Premiere 2
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432175
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies Stars" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-stars-logo.png" group-title="TURKEY",beIN Movies Stars
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432177
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies Turk" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-turk-logo.jpg group-title="TURKEY",beIN Movies Turk
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432178
 #EXTINF:-1  tvg-name="TRT 1" tvg-id="TRT 1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:-1  tvg-name="atv" tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",atv
