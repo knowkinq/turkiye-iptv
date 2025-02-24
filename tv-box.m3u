@@ -147,6 +147,7 @@ http://stream.tvcdn.net/haber/tbmm-tv.m3u8
 http://stream.tvcdn.net/haber/dha-canli-1.m3u8
 #EXTINF:-1  tvg-name="DHA Canlı 2" tvg-logo="http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png" group-title="Haber",DHA Canlı 2
 http://stream.tvcdn.net/haber/dha-canli-2.m3u8
+
 #EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="beIN SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOY1yC0O_nuFGdMzGhvAK9L3JnYD6UJw3-qABYy_Xe1cQj31bNDQimXo&s=10",beIN Sports 1
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432184
 
@@ -155,15 +156,15 @@ http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432184
 #EXTVLCOPT:http-referrer=https://www.netsportv168.top/
 https://frosty-base-438e.hadiseaskomm.workers.dev/https://fener.demoscript.buzz/hls/bein-sports-1.m3u8
 
+#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="beIN SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOY1yC0O_nuFGdMzGhvAK9L3JnYD6UJw3-qABYy_Xe1cQj31bNDQimXo&s=10",beIN Sports 1 yedek 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://mackeyfim7.pro/
+https://bidaye.raventv11.live/yayinzirve.m3u8
+
 #EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="beIN SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOY1yC0O_nuFGdMzGhvAK9L3JnYD6UJw3-qABYy_Xe1cQj31bNDQimXo&s=10",beIN Sports 1 yedek 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals1190.xyz/
 https://r0.b4c8d3e9f1a2b7c5d67.cfd/yayin1.m3u8
-
-#EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="beIN SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOY1yC0O_nuFGdMzGhvAK9L3JnYD6UJw3-qABYy_Xe1cQj31bNDQimXo&s=10",beIN Sports 1 yedek 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://mackeyfim7.pro/
-https://bidahat.raventv10.live/yayinzirve.m3u8
 
 #EXTINF:-1  tvg-name="BEINSPORTS 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="Alternatif3",beIN Sports 1 yedek 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
