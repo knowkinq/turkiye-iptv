@@ -135,6 +135,8 @@ http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
 http://stream.tvcdn.net/eglence/kultur-sanat-tv.m3u8
 #EXTINF:-1  tvg-name="Belgesel TV" tvg-logo="http://assets.tvcdn.net/6982e864-f429-4e6e-b3ba-d064ae84ff13.png" group-title="Eğlence",Belgesel TV
 http://stream.tvcdn.net/eglence/belgesel-tv.m3u8
+#EXTINF:-1,D-Smart National Geographic Wild HD
+http://al.3614098.xyz:80/live/KXNhN9fY6W/hPnVPU2Xys/711.ts
 #EXTINF:-1  tvg-name="DISCOVERY CHANNEL TV" tvg-logo="https://www.discoverychannel.com.tr/app/themes/discovery/assets/img/logo_new.png?v=1" group-title="Eğlence",DISCOVERY CHANNEL
 http://fbxxnoxx4141eu.eu:80/live/erdemterim/Sy85v9zn4t/190.ts
 #EXTINF:-1  tvg-name="DISCOVERY CHANNEL TV" tvg-logo="https://www.discoverychannel.com.tr/app/themes/discovery/assets/img/logo_new.png?v=1" group-title="Eğlence",DISCOVERY CHANNEL 2
