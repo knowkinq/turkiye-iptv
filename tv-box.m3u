@@ -137,6 +137,8 @@ http://stream.tvcdn.net/eglence/belgesel-tv.m3u8
 http://fbxxnoxx4141eu.eu:80/live/erdemterim/Sy85v9zn4t/133.ts
 #EXTINF:-1  tvg-name="DISCOVERY CHANNEL" tvg-logo="https://www.discoverychannel.com.tr/app/themes/discovery/assets/img/logo_new.png?v=1" group-title="Eğlence",DISCOVERY CHANNEL
 http://fbxxnoxx4141eu.eu:80/live/erdemterim/Sy85v9zn4t/190.ts
+#EXTINF:-1  tvg-name="National Geographic Wild" tvg-logo="https://www.natgeotv.com/App_Resources2/Themes/Default/Images/Main/NGC_logo.png" group-title="Eğlence",National Geographic Wild 2
+http://fbxxnoxx4141eu.eu:80/live/Serkan3321/KsqUQPd97L/133.ts
 #EXTINF:-1  tvg-name="DISCOVERY CHANNEL" tvg-logo="https://www.discoverychannel.com.tr/app/themes/discovery/assets/img/logo_new.png?v=1" group-title="Eğlence",DISCOVERY CHANNEL 2
 http://fbxxnoxx4141eu.eu:80/live/Serkan3321/KsqUQPd97L/190.ts
 #EXTINF:-1,TR: NAT GEO HD
