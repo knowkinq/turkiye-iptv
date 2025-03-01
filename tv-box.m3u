@@ -301,32 +301,6 @@ http://stream.tvcdn.net/dini/kanal-hayat.m3u8
 http://stream.tvcdn.net/dini/abn-turkey.m3u8
 #EXTINF:-1  tvg-name="Mukabele TV" tvg-logo="http://assets.tvcdn.net/23b391ac-5edb-4e37-8664-27da64fb0785.png" group-title="Dini",Mukabele TV
 http://stream.tvcdn.net/dini/mukabele-tv.m3u8
-#EXTINF:-1  tvg-name="Beşiktaş Web TV" tvg-logo="http://assets.tvcdn.net/d3d061ac-30c5-4268-9dc1-16f612f74243.png" group-title="Kurumlar",Beşiktaş Web TV
-http://stream.tvcdn.net/kurumlar/besiktas-web-tv.m3u8
-#EXTINF:-1  tvg-name="Çekmeköy Web TV" tvg-logo="http://assets.tvcdn.net/b694fd40-7fb1-4ee7-bb9c-f143b4b54f93.jpeg" group-title="Kurumlar",Çekmeköy Web TV
-http://stream.tvcdn.net/kurumlar/cekmekoy-web-tv.m3u8
-#EXTINF:-1  tvg-name="Esenler Şehir Ekranı" tvg-logo="http://assets.tvcdn.net/d2c0564b-1b54-4309-bcdd-431f17f66e8d.jpg" group-title="Kurumlar",Esenler Şehir Ekranı
-http://stream.tvcdn.net/kurumlar/esenler-sehir-ekrani.m3u8
-#EXTINF:-1  tvg-name="İBB TV" tvg-logo="http://assets.tvcdn.net/2255cdee-75ad-4908-87f7-56c3ec9a7732.png" group-title="Kurumlar",İBB TV
-http://stream.tvcdn.net/kurumlar/ibb-tv.m3u8
-#EXTINF:-1  tvg-name="Ordu BB TV" tvg-logo="http://assets.tvcdn.net/dcde5345-2b03-4146-9952-06bc60ef5238.png" group-title="Kurumlar",Ordu BB TV
-http://stream.tvcdn.net/kurumlar/ordu-bb-tv.m3u8
-#EXTINF:-1  tvg-name="Yozgat Belediyesi TV" tvg-logo="http://assets.tvcdn.net/639a7d49-f927-4c75-9713-7429b5bbc9c8.png" group-title="Kurumlar",Yozgat Belediyesi TV
-http://stream.tvcdn.net/kurumlar/yozgat-belediyesi-tv.m3u8
-#EXTINF:-1  tvg-name="Yusufeli Belediyesi TV" tvg-logo="http://assets.tvcdn.net/1d64ef11-847f-4ca0-83b8-75987078d363.png" group-title="Kurumlar",Yusufeli Belediyesi TV
-http://stream.tvcdn.net/kurumlar/yusufeli-belediyesi-tv.m3u8
-#EXTINF:-1  tvg-name="EBS TV" tvg-logo="http://assets.tvcdn.net/380c3daa-63c1-4c76-b4e2-012dbd5e6705.png" group-title="Kurumlar",EBS TV
-http://stream.tvcdn.net/kurumlar/ebs-tv.m3u8
-#EXTINF:-1  tvg-name="TÜRSAB TV" tvg-id="TursabTV.tr" tvg-logo="http://assets.tvcdn.net/c0eec52b-8ee8-491c-8d0d-cdb93549ef82.png" group-title="Kurumlar",TÜRSAB TV
-http://stream.tvcdn.net/kurumlar/tursab-tv.m3u8
-#EXTINF:-1  tvg-name="Üsküdar Üniversitesi TV 1" tvg-logo="http://assets.tvcdn.net/df4f5ccd-96f4-4301-980b-27499dc72ead.jpg" group-title="Kurumlar",Üsküdar Üniversitesi TV 1
-http://stream.tvcdn.net/kurumlar/uskudar-universitesi-tv-1.m3u8
-#EXTINF:-1  tvg-name="Üsküdar Üniversitesi TV 2" tvg-logo="http://assets.tvcdn.net/0ea0f8e7-86af-4ed8-b749-7c7663071d42.jpg" group-title="Kurumlar",Üsküdar Üniversitesi TV 2
-http://stream.tvcdn.net/kurumlar/uskudar-universitesi-tv-2.m3u8
-#EXTINF:-1  tvg-name="İntisad TV" tvg-logo="http://assets.tvcdn.net/f84b8f2d-8200-4341-9c9a-7c0885450871.png" group-title="Kurumlar",İntisad TV
-http://stream.tvcdn.net/kurumlar/intisad-tv.m3u8
-#EXTINF:-1  tvg-name="OKKU TV" tvg-logo="http://assets.tvcdn.net/ba0dcbdf-1582-4e3e-8877-b1b9e5d7b2cd.png" group-title="Kurumlar",OKKU TV
-http://stream.tvcdn.net/kurumlar/okku-tv.m3u8
 #EXTINF:-1  tvg-name="5 Ocak TV" tvg-logo="http://assets.tvcdn.net/c66ed7a4-24d2-4c23-aa1e-61e6fc26fa8e.png" group-title="Yerel",5 Ocak TV
 http://stream.tvcdn.net/yerel/5-ocak-tv.m3u8
 #EXTINF:-1  tvg-name="A 52 TV" tvg-logo="http://assets.tvcdn.net/46440f5d-d89a-4a36-9f9c-c0bb473d8bba.png" group-title="Yerel",A 52 TV
