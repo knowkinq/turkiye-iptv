@@ -134,11 +134,11 @@ http://stream.tvcdn.net/eglence/kultur-sanat-tv.m3u8
 #EXTINF:-1  tvg-name="Belgesel TV" tvg-logo="http://assets.tvcdn.net/6982e864-f429-4e6e-b3ba-d064ae84ff13.png" group-title="Eğlence",Belgesel TV
 http://stream.tvcdn.net/eglence/belgesel-tv.m3u8
 #EXTINF:-1  tvg-name="National Geographic Wild" tvg-logo="https://www.natgeotv.com/App_Resources2/Themes/Default/Images/Main/NGC_logo.png" group-title="Eğlence",National Geographic Wild
-http://al.3614098.xyz:80/live/KXNhN9fY6W/hPnVPU2Xys/711.ts
+http://fbxxnoxx4141eu.eu:80/live/erdemterim/Sy85v9zn4t/133.ts
 #EXTINF:-1  tvg-name="DISCOVERY CHANNEL" tvg-logo="https://www.discoverychannel.com.tr/app/themes/discovery/assets/img/logo_new.png?v=1" group-title="Eğlence",DISCOVERY CHANNEL
 http://fbxxnoxx4141eu.eu:80/live/erdemterim/Sy85v9zn4t/190.ts
 #EXTINF:-1  tvg-name="DISCOVERY CHANNEL" tvg-logo="https://www.discoverychannel.com.tr/app/themes/discovery/assets/img/logo_new.png?v=1" group-title="Eğlence",DISCOVERY CHANNEL 2
-http://al.3614098.xyz:80/live/KXNhN9fY6W/hPnVPU2Xys/766.ts
+http://fbxxnoxx4141eu.eu:80/live/Serkan3321/KsqUQPd97L/190.ts
 #EXTINF:-1,TR: NAT GEO HD
 http://bigda.xyz:8089/live/gY1IBXoHk3/2pvjn0Yq9z/456.ts
 #EXTINF:-1,TR: NAT GEO HQ
@@ -149,12 +149,6 @@ http://stream.tvcdn.net/eglence/saglikli-gunler-tv.m3u8
 http://stream.tvcdn.net/eglence/tarih-tv.m3u8
 #EXTINF:-1  tvg-name="Yol TV" tvg-logo="http://assets.tvcdn.net/0cebab34-cb48-48e3-81e0-a9a91a604b1e.png" group-title="Haber",Yol TV
 https://iptv.amgsmart2home.de/YOLTVMAIN/index.m3u8
-#EXTINF:-1  tvg-name="TBMM TV" tvg-logo="http://assets.tvcdn.net/370c4e6f-8d30-400c-b298-c6a37b19e5dd.png" group-title="Haber",TBMM TV
-http://stream.tvcdn.net/haber/tbmm-tv.m3u8
-#EXTINF:-1  tvg-name="DHA Canlı 1" tvg-logo="http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png" group-title="Haber",DHA Canlı 1
-http://stream.tvcdn.net/haber/dha-canli-1.m3u8
-#EXTINF:-1  tvg-name="DHA Canlı 2" tvg-logo="http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png" group-title="Haber",DHA Canlı 2
-http://stream.tvcdn.net/haber/dha-canli-2.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS"tvg-id="beIN SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOY1yC0O_nuFGdMzGhvAK9L3JnYD6UJw3-qABYy_Xe1cQj31bNDQimXo&s=10",beIN Sports 1
 http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432184
@@ -183,6 +177,12 @@ https://l0.b4c8d3e9f1a2b7c5d62.cfd/yayinnbatv.m3u8
 http://stream.tvcdn.net/spor/fb-tv.m3u8
 #EXTINF:-1  tvg-name="TJK TV" tvg-id="TJKTV.tr" tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png" group-title="Spor",TJK TV
 http://stream.tvcdn.net/spor/tjk-tv.m3u8
+#EXTINF:-1  tvg-name="TBMM TV" tvg-logo="http://assets.tvcdn.net/370c4e6f-8d30-400c-b298-c6a37b19e5dd.png" group-title="Haber",TBMM TV
+http://stream.tvcdn.net/haber/tbmm-tv.m3u8
+#EXTINF:-1  tvg-name="DHA Canlı 1" tvg-logo="http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png" group-title="Haber",DHA Canlı 1
+http://stream.tvcdn.net/haber/dha-canli-1.m3u8
+#EXTINF:-1  tvg-name="DHA Canlı 2" tvg-logo="http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png" group-title="Haber",DHA Canlı 2
+http://stream.tvcdn.net/haber/dha-canli-2.m3u8
 #EXTINF:-1  tvg-name="Briç ve Satranç TV" tvg-logo="http://assets.tvcdn.net/2bc82127-7e38-496b-9854-10e6b4c1a9b2.png" group-title="Spor",Briç ve Satranç TV
 http://stream.tvcdn.net/spor/bric-ve-satranc-tv.m3u8
 #EXTINF:-1  tvg-name="Fit Yaşa TV" tvg-logo="http://assets.tvcdn.net/639df808-f325-4b05-8cdb-9ed151338087.png" group-title="Spor",Fit Yaşa TV
