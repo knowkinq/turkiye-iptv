@@ -138,9 +138,9 @@ http://stream.tvcdn.net/eglence/belgesel-tv.m3u8
 http://fbxxnoxx4141eu.eu:80/live/erdemterim/Sy85v9zn4t/133.ts
 #EXTINF:-1  tvg-name="Discovery.tr" tvg-logo="https://www.discoverychannel.com.tr/app/themes/discovery/assets/img/logo_new.png?v=1" group-title="Belgesel",DISCOVERY CHANNEL
 http://fbxxnoxx4141eu.eu:80/live/erdemterim/Sy85v9zn4t/190.ts
-#EXTINF:-1  tvg-name="National Geographic WILD.tr" tvg-logo="https://www.natgeotv.com/App_Resources2/Themes/Default/Images/Main/NGC_logo.png" group-title="Belgesel",National Geographic Wild 2
+#EXTINF:-1  tvg-name="National Geographic WILD.tr" tvg-logo="https://www.natgeotv.com/App_Resources2/Themes/Default/Images/Main/NGC_logo.png" group-title="Belgesel",National Geographic Wild Yedek
 http://fbxxnoxx4141eu.eu:80/live/Serkan3321/KsqUQPd97L/133.ts
-#EXTINF:-1  tvg-name="Discovery.tr" tvg-logo="https://www.discoverychannel.com.tr/app/themes/discovery/assets/img/logo_new.png?v=1" group-title="Belgesel",DISCOVERY CHANNEL 2
+#EXTINF:-1  tvg-name="Discovery.tr" tvg-logo="https://www.discoverychannel.com.tr/app/themes/discovery/assets/img/logo_new.png?v=1" group-title="Belgesel",DISCOVERY CHANNEL Yedek
 http://fbxxnoxx4141eu.eu:80/live/Serkan3321/KsqUQPd97L/190.ts
 #EXTINF:-1  tvg-name="National Geographic.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Belgesel",NAT GEO HD
 http://bigda.xyz:8089/live/gY1IBXoHk3/2pvjn0Yq9z/456.ts
