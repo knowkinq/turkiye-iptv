@@ -102,7 +102,7 @@ http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
 #EXTINF:-1  tvg-name="Ekotürk" tvg-id="Ekol TV.tr" tvg-logo="http://assets.tvcdn.net/99155348-56d9-49c6-a0be-50ec0ae790ec.png" group-title="Ekonomi",Ekotürk
 https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8
 #EXTINF:-1  tvg-name="CNBC-e" tvg-id="CNBC-E.tr" tvg-logo="http://assets.tvcdn.net/4371c426-66c5-4452-ba3e-439a0718a997.png" group-title="Ekonomi",CNBC-e
-https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=XihyuKSyUD0.m3u8
+http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
 #EXTINF:-1  tvg-name="TRT 2" tvg-id="trt 2.tr" tvg-logo="http://assets.tvcdn.net/7bab6062-acec-4452-a419-345ab95f24e9.png" group-title="Eğlence",TRT 2
 http://stream.tvcdn.net/eglence/trt-2.m3u8
 #EXTINF:-1  tvg-name="teve2" tvg-id="teve2.tr" tvg-logo="http://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png" group-title="Eğlence",teve2
