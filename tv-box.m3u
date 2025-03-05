@@ -94,7 +94,7 @@ http://stream.tvcdn.net/haber/sozcu-tv.m3u8
 #EXTINF:-1  tvg-name="Tele 1" tvg-id="Tele 1.tr" tvg-logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png" group-title="Haber",Tele 1
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1  tvg-name="Ulusal Kanal" tvg-id="Ulusal TV.tr" tvg-logo="http://assets.tvcdn.net/1762dbd7-b2a4-497d-9cf0-3ecd075cf578.png" group-title="Haber",Ulusal Kanal
-https://koprulu1.global.ssl.fastly.net/yt.m3u8/?id=Fr0Dku2UZmI.m3u8
+https://canlitvulusal.xyz/live/ulusalkanal/index.m3u8
 #EXTINF:-1  tvg-name="Bengütürk TV" tvg-id="Benguturk TV.tr" tvg-logo="http://assets.tvcdn.net/a8fd43de-872a-4e58-9f07-ff22d21a6c24.png" group-title="Haber",Bengütürk TV
 http://stream.tvcdn.net/haber/benguturk-tv.m3u8
 #EXTINF:-1  tvg-name="Bloomberg HT" tvg-id="Bloomberg HT.tr" tvg-logo="http://assets.tvcdn.net/2a1808ad-733e-4223-a8b3-34be18ef21f9.png" group-title="Ekonomi",Bloomberg HT
