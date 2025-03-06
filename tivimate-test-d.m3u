@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://github.com/dtankdempse/daddylive-m3u/raw/refs/heads/main/epg.xml"
+#EXTINF:-1,TR: TEST
+https://windnew.koskoros.ru/wind/premium46/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://pkpakiplay.xyz
 #EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" tvg-name="A&E",A&E
 https://ddy6new.koskoros.ru/ddy6/premium302/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://pkpakiplay.xyz
 #EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="ABC.(WFAA).Dallas,.TX.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-8-wfaa-us.png" tvg-name="ABC (WFAA)",ABC (WFAA)
