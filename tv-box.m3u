@@ -143,8 +143,6 @@ http://bigda.xyz:8089/live/gY1IBXoHk3/2pvjn0Yq9z/452.ts
 http://bigda.xyz:8089/live/gY1IBXoHk3/2pvjn0Yq9z/456.ts
 #EXTINF:-1  tvg-name="TGRT Belgesel" tvg-id="TGRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png" group-title="Belgesel",TGRT Belgesel
 http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8
-#EXTINF:-1,TR: DISCOVERY SCIENCE HQ
-http://bigda.xyz:8089/live/gY1IBXoHk3/2pvjn0Yq9z/426.ts
 #EXTINF:-1  tvg-name="Sağlıklı Günler TV" tvg-logo="http://assets.tvcdn.net/b46f11bf-bd55-4203-974c-ac36d14dc7d3.png" group-title="Eğlence",Sağlıklı Günler TV
 http://stream.tvcdn.net/eglence/saglikli-gunler-tv.m3u8
 #EXTINF:-1  tvg-name="Tarih TV" tvg-logo="http://assets.tvcdn.net/f438ceb7-c0a8-4b3c-9415-aea43a02b93e.png" group-title="Eğlence",Tarih TV
